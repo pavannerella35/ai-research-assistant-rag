@@ -1,0 +1,16 @@
+PRODUCT GUIDE: NIMBUS HOME HUB — SETUP & TROUBLESHOOTING
+
+Initial Setup
+To set up your Nimbus Home Hub, plug in the power adapter and wait for the light ring to pulse blue. Download the Nimbus app, create an account, and select "Add Device." Hold the pairing button on the back of the hub for 5 seconds until the light ring turns solid white, then follow the in-app instructions to join your Wi-Fi network.
+
+Factory Reset
+To reset the hub to factory settings, press and hold the small reset button on the underside of the device for 15 seconds until the light ring flashes red three times. This will erase all saved Wi-Fi credentials, paired devices, and custom routines. This action cannot be undone.
+
+Firmware Updates
+The hub checks for firmware updates automatically once every 24 hours when connected to Wi-Fi. To trigger a manual check, open the app, go to Settings > Device > Check for Updates. Do not unplug the hub during an update; the light ring will pulse purple while updating and return to solid blue when complete.
+
+Common Issue: Hub Not Connecting to Wi-Fi
+If the hub fails to connect, confirm your router is broadcasting on the 2.4GHz band, as the hub does not support 5GHz-only networks. Move the hub within 15 feet of the router during setup, then retry pairing.
+
+Common Issue: App Cannot Find Hub
+Ensure Bluetooth is enabled on your phone, as initial pairing requires Bluetooth even though ongoing operation uses Wi-Fi. Restart both the app and the hub if discovery fails after two attempts.

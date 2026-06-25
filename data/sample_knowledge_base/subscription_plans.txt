@@ -1,0 +1,16 @@
+PRODUCT GUIDE: NIMBUS CLOUD SUBSCRIPTION PLANS
+
+Plan Tiers
+Nimbus offers three subscription tiers: Basic (free, 7-day event history, 1 hub), Plus ($6.99/month, 30-day event history, up to 3 hubs, motion zone customization), and Pro ($14.99/month, 90-day event history, unlimited hubs, AI-powered person/package detection, and priority support).
+
+Comparing Plus and Pro
+The main differences between Plus and Pro are event history retention (30 vs 90 days), the number of hubs supported, and AI detection features. Pro adds person, vehicle, and package recognition using on-device machine learning, while Plus only provides basic motion detection without object classification.
+
+Billing and Cancellation
+Subscriptions renew automatically each month unless cancelled at least 24 hours before the renewal date. Cancelling a subscription does not delete existing recorded footage; footage remains accessible until its retention window expires based on the plan tier active at the time of recording.
+
+Switching Plans
+You can upgrade or downgrade your plan at any time from Settings > Subscription. Upgrades take effect immediately with prorated billing; downgrades take effect at the start of the next billing cycle to avoid losing paid-for features mid-cycle.
+
+Family Sharing
+Pro and Plus subscribers can add up to 5 family members to a shared account at no additional cost. Family members can view live feeds and event history but cannot modify subscription or billing settings unless designated as an account co-owner.
