@@ -25,6 +25,8 @@ class RouterAgent:
     HOWTO_MARKERS = ("how do i", "how to", "steps to", "reset", "set up", "setup")
 
     def route(self, question: str) -> dict:
+        if not question or not question.strip():
+            return {"question": question, "type": "factual", "top_k": 3}
         q = question.lower()
         if any(marker in q for marker in self.COMPARISON_MARKERS):
             qtype, top_k = "comparison", 4
