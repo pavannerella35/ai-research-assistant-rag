@@ -42,3 +42,9 @@ python src/ingest.py
 python src/orchestrator.py "How do I reset my device to factory settings?"
 uvicorn src.app:app --reload --app-dir .
 ```
+
+## Testing
+
+```bash
+python tests/test_pipeline.py
+```
